@@ -1,0 +1,39 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background-color: grey;
+}
+
+.slika { 
+    margin-top: 10px;
+	margin-left: 533px;
+	margin-right: 533px;
+	background-color: white;
+
+}
+
+.tekst{
+	margin-top: 0;
+	margin: auto;
+	height: 100px;
+	width: 300px;
+	background-color: white;
+}
+
+.by{
+
+	margin-left: 20px;
+	color: grey;
+
+}
+
+.header{
+
+	margin-left: 20px;
+	text-transform: capitalize;	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+}

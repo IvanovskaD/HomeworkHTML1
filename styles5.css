@@ -1,0 +1,73 @@
+
+*{
+	padding: 0;
+    margin: 10px;
+
+}
+
+body{
+	border-width: 10px;
+	border-style: solid;
+	border-color: white;
+	text-align: center;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: 700;
+	color: white;
+}
+
+.prv{
+
+	background-color: #57A0D3;
+	width: 50%;
+	height: 35px;
+}
+
+.vtor{
+
+	background-color: grey;
+	width: 50%;
+	height: 25px;
+}
+
+.tret{
+	height: 300px;
+	width: 50%;
+	background-color: #89CFF0;
+	
+}
+
+.levo{
+	width: 25%;
+	float: left;
+	padding-left: 50px;
+}
+
+.desno{
+	width: 15%;
+	float: right;
+	padding-right: 50px;
+}
+
+
+.cetvrt{
+
+	background-color: #FF8C00;
+	height: 100px;
+	width: 50%;
+	float: left;
+
+
+}
+
+.eden .dva .tri {
+	width: 16%;
+}
+
+.petti{
+
+	background-color: grey;
+	width: 50%;
+	height: 25px;
+	clear: left;
+
+}
